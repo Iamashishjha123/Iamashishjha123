@@ -30,63 +30,31 @@ Rather than building standalone ML models, I'm passionate about creating AI prod
 
 ---
 
-# 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-### AI
+**Programming & Data:**  
+`Python`, `SQL`, `Pandas`, `NumPy`
 
-OpenAI • Claude • Gemini
+**Machine Learning & AI:**  
+`Scikit-learn`, `TensorFlow`, `PyTorch`, `Deep Learning`, `Generative AI`, `Large Language Models (LLMs)`
 
-LangChain • RAG
+**LLM & AI Engineering:**  
+`RAG`, `AI Agents`, `Prompt Engineering`, `Function Calling`, `Structured Outputs`, `Embeddings`, `Vector Search`, `Knowledge Base Systems`, `Model Context Protocol (MCP)`
 
-Embeddings
+**Data Engineering & Backend:**  
+`Apache Airflow`, `ETL/ELT Pipelines`, `FastAPI`, `REST APIs`, `Workflow Orchestration`, `API Integration`
 
-Prompt Engineering
+**Cloud Platforms:**  
+`Google Cloud Platform (BigQuery, Composer, Cloud Run, GCS)`, `AWS (Bedrock, Lambda, S3)`
 
-MCP
+**Analytics & Visualization:**  
+`Power BI`, `Looker Studio`, `Matplotlib`, `Data Visualization`
 
-Vector Databases
+**DevOps & Infrastructure:**  
+`Git`, `CI/CD`, `Jenkins`, `Bitbucket`, `Terraform`
 
----
-
-### Backend
-
-Python
-
-FastAPI
-
-REST APIs
-
-PostgreSQL
-
-Redis
-
----
-
-### AI Infrastructure
-
-Docker
-
-GitHub Actions
-
-n8n
-
-Vapi
-
-AWS
-
-GCP
-
----
-
-### Databases
-
-PostgreSQL
-
-Supabase
-
-Pinecone
-
-ChromaDB
+**AI Product Development:**  
+`AI Workflow Automation`, `n8n`, `Vapi`, `Recommendation Systems`, `Prompt Evaluation`, `AI Guardrails`, `Context Engineering`
 
 ---
 
